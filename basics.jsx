@@ -1,4 +1,2 @@
-//print say hello
-const say = () => {
-	return "Hello world";
-};
+console.log("hello");
+//add comment
