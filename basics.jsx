@@ -1,2 +1,2 @@
-const say = () => console.log("hello");
+console.log("<hello world/>");
 //add comment
